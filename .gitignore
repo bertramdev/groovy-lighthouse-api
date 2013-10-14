@@ -1,6 +1,6 @@
 /build
 /.gradle
-/deploy.gradle
+/*-deploy.gradle
 
 # Temp file patterns from Emacs and vi
 **/#*#
