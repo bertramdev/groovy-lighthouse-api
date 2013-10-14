@@ -1,0 +1,7 @@
+/build
+
+# Temp file patterns from Emacs and vi
+**/#*#
+**/.#*
+**/*~
+**/.*.swp
